@@ -23,8 +23,8 @@
 🎉AI社群 | 我的微信，点击此处：<a href="https://mlink.cc/aitrainee">一键直达</a> 🚀
 
 
-# Gpt4-o国内直连共享账号、GPT34 API开源项目！
-[点击此处：5月最新大盘点：Gpt4-o国内直连共享账号、GPT34 API开源项目！](doc/2.html)
+# 5月最新大盘点：Gpt4-o国内直连共享账号、GPT34 API开源项目！
+[点击此处：下载本地打开即可](doc/2.html)
 
 ![img.png](doc/img.png)
 
