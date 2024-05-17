@@ -24,7 +24,7 @@
 
 
 # Gpt4-o国内直连共享账号、GPT34 API开源项目！
-[点击此处：5月最新大盘点：Gpt4-o国内直连共享账号、GPT34 API开源项目！](doc/2024 5月最新大盘点：Gpt4-o国内直连共享账号、GPT34 API开源项目！.html)
+[点击此处：5月最新大盘点：Gpt4-o国内直连共享账号、GPT34 API开源项目！](doc/2.html)
 
 ![img.png](doc/img.png)
 
